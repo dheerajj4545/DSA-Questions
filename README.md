@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/dheerajj4545/DSA-Questions/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [3620-network-recovery-pathways](https://github.com/dheerajj4545/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -53,4 +54,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dheerajj4545/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
