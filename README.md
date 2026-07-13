@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/dheerajj4545/DSA-Questions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0097-interleaving-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/dheerajj4545/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
