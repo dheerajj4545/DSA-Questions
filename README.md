@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
