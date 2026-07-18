@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dheerajj4545/DSA-Questions/tree/master/3620-network-recovery-pathways) |
@@ -81,17 +82,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dheerajj4545/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dheerajj4545/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dheerajj4545/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
