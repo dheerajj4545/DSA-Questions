@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
