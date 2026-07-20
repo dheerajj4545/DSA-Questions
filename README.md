@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/dheerajj4545/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0136-single-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/dheerajj4545/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dheerajj4545/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
