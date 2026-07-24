@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dheerajj4545/DSA-Questions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dheerajj4545/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dheerajj4545/DSA-Questions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/dheerajj4545/DSA-Questions/tree/master/0169-majority-element) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/dheerajj4545/DSA-Questions/tree/master/1260-shift-2d-grid) |
 ## Counting
 |  |
