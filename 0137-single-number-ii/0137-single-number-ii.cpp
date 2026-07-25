@@ -1,15 +1,20 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int>mp;
-        for(auto it:nums){
-            mp[it]++;
-        }
-        for(auto it:mp){
-            if(it.second==1){
-                return it.first;
+        int ans = 0;
+
+        for (int i = 0; i < 32; i++) {
+            int cnt = 0;
+
+            for (int num : nums) {
+                if ((num >> i) & 1)
+                    cnt++;
             }
+
+            if (cnt % 3)
+                ans |= (1 << i);
         }
-        return -1;
+
+        return ans;
     }
 };
