@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/dheerajj4545/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheerajj4545/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dheerajj4545/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dheerajj4545/DSA-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 ## Tree
 |  |
 | ------- |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dheerajj4545/DSA-Questions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/dheerajj4545/DSA-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -283,8 +288,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
