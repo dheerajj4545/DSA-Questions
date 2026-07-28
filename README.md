@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/dheerajj4545/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/dheerajj4545/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dheerajj4545/DSA-Questions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/dheerajj4545/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/dheerajj4545/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/dheerajj4545/DSA-Questions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/dheerajj4545/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/dheerajj4545/DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
@@ -351,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dheerajj4545/DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/dheerajj4545/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
