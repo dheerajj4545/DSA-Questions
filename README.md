@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/dheerajj4545/DSA-Questions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dheerajj4545/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/dheerajj4545/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/dheerajj4545/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/dheerajj4545/DSA-Questions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dheerajj4545/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dheerajj4545/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
