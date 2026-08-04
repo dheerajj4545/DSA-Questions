@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/dheerajj4545/DSA-Questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/dheerajj4545/DSA-Questions/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/dheerajj4545/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/dheerajj4545/DSA-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dheerajj4545/DSA-Questions/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dheerajj4545/DSA-Questions/tree/master/3620-network-recovery-pathways) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -428,5 +431,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
