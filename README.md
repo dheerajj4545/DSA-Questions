@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dheerajj4545/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/dheerajj4545/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dheerajj4545/DSA-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dheerajj4545/DSA-Questions/tree/master/0054-spiral-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dheerajj4545/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/dheerajj4545/DSA-Questions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dheerajj4545/DSA-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/dheerajj4545/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dheerajj4545/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0143-reorder-list) |
@@ -339,12 +342,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dheerajj4545/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dheerajj4545/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dheerajj4545/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
