@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/dheerajj4545/DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/dheerajj4545/DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [1314-matrix-block-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dheerajj4545/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/dheerajj4545/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/1314-matrix-block-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dheerajj4545/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/dheerajj4545/DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [1314-matrix-block-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/1314-matrix-block-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/dheerajj4545/DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
