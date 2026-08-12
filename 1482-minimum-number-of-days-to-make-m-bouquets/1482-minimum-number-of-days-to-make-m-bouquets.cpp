@@ -2,19 +2,19 @@ class Solution {
 public:
     bool bloom(vector<int>& nums, int day, int m, int k) {
         int flowers = 0;
-        int bouqets = 0;
+        int bouquets = 0;
         for (int i = 0; i < nums.size(); i++) {
             if (nums[i] <= day) {
                 flowers++;
                 if (flowers == k) {
-                    bouqets++;
+                    bouquets++;
                     flowers = 0;
                 }
             } else {
                 flowers = 0;
             }
         }
-        return bouqets >= m;
+        return bouquets >= m;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
         long long total = 1LL * m * k;
