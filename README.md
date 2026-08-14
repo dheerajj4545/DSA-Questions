@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dheerajj4545/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dheerajj4545/DSA-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dheerajj4545/DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/dheerajj4545/DSA-Questions/tree/master/0904-fruit-into-baskets) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/dheerajj4545/DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
