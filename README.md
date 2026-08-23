@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dheerajj4545/DSA-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dheerajj4545/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dheerajj4545/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1021-remove-outermost-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -574,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
