@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dheerajj4545/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dheerajj4545/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/dheerajj4545/DSA-Questions/tree/master/0091-decode-ways) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dheerajj4545/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/dheerajj4545/DSA-Questions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dheerajj4545/DSA-Questions/tree/master/0069-sqrtx) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/dheerajj4545/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dheerajj4545/DSA-Questions/tree/master/0133-clone-graph) |
