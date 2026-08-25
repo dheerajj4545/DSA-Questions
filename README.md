@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/dheerajj4545/DSA-Questions/tree/master/0486-predict-the-winner) |
 ## Binary Indexed Tree
 |  |
