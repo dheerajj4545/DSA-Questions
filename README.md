@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dheerajj4545/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dheerajj4545/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheerajj4545/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/dheerajj4545/DSA-Questions/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dheerajj4545/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dheerajj4545/DSA-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/dheerajj4545/DSA-Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheerajj4545/DSA-Questions/tree/master/0205-isomorphic-strings) |
