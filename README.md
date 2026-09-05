@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0229-majority-element-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dheerajj4545/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0239-sliding-window-maximum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/dheerajj4545/DSA-Questions/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/dheerajj4545/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dheerajj4545/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dheerajj4545/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/dheerajj4545/DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/1314-matrix-block-sum) |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dheerajj4545/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
