@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dheerajj4545/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/dheerajj4545/DSA-Questions/tree/master/0091-decode-ways) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dheerajj4545/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dheerajj4545/DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/dheerajj4545/DSA-Questions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0093-restore-ip-addresses) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0113-path-sum-ii) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
