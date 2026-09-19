@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/dheerajj4545/DSA-Questions/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/dheerajj4545/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dheerajj4545/DSA-Questions/tree/master/0877-stone-game) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/dheerajj4545/DSA-Questions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/dheerajj4545/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/dheerajj4545/DSA-Questions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/dheerajj4545/DSA-Questions/tree/master/0486-predict-the-winner) |
 ## Binary Indexed Tree
