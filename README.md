@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/dheerajj4545/DSA-Questions/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/dheerajj4545/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/dheerajj4545/DSA-Questions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/dheerajj4545/DSA-Questions/tree/master/0149-max-points-on-a-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/dheerajj4545/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bucket Sort
 |  |
 | ------- |
