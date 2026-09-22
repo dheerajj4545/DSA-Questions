@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dheerajj4545/DSA-Questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/dheerajj4545/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/dheerajj4545/DSA-Questions/tree/master/0218-the-skyline-problem) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/dheerajj4545/DSA-Questions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/dheerajj4545/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dheerajj4545/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dheerajj4545/DSA-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dheerajj4545/DSA-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/dheerajj4545/DSA-Questions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/dheerajj4545/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dheerajj4545/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dheerajj4545/DSA-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/dheerajj4545/DSA-Questions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dheerajj4545/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dheerajj4545/DSA-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dheerajj4545/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dheerajj4545/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dheerajj4545/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/dheerajj4545/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/dheerajj4545/DSA-Questions/tree/master/1260-shift-2d-grid) |
