@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/dheerajj4545/DSA-Questions/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/dheerajj4545/DSA-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -709,4 +710,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/dheerajj4545/DSA-Questions/tree/master/0218-the-skyline-problem) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/dheerajj4545/DSA-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
