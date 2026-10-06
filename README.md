@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dheerajj4545/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dheerajj4545/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dheerajj4545/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/dheerajj4545/DSA-Questions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dheerajj4545/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dheerajj4545/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dheerajj4545/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dheerajj4545/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dheerajj4545/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/dheerajj4545/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dheerajj4545/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
