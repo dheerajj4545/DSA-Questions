@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/dheerajj4545/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dheerajj4545/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/dheerajj4545/DSA-Questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/dheerajj4545/DSA-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dheerajj4545/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dheerajj4545/DSA-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/dheerajj4545/DSA-Questions/tree/master/3310-remove-methods-from-project) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
