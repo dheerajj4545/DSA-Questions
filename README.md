@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/dheerajj4545/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/dheerajj4545/DSA-Questions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dheerajj4545/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/dheerajj4545/DSA-Questions/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/dheerajj4545/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
