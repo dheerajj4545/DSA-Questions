@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dheerajj4545/DSA-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dheerajj4545/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1872-stone-game-viii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dheerajj4545/DSA-Questions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1510-stone-game-iv](https://github.com/dheerajj4545/DSA-Questions/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/dheerajj4545/DSA-Questions/tree/master/0200-number-of-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dheerajj4545/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dheerajj4545/DSA-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0226-invert-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/dheerajj4545/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0226-invert-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
@@ -377,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dheerajj4545/DSA-Questions/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/dheerajj4545/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/dheerajj4545/DSA-Questions/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -545,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dheerajj4545/DSA-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/dheerajj4545/DSA-Questions/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Number Theory
 |  |
 | ------- |
@@ -618,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dheerajj4545/DSA-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dheerajj4545/DSA-Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -756,4 +765,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/dheerajj4545/DSA-Questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/dheerajj4545/DSA-Questions/tree/master/0460-lfu-cache) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
