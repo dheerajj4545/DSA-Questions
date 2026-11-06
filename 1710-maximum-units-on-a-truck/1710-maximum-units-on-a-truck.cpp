@@ -12,6 +12,7 @@ public:
             int take=min(boxes,truckSize);
             total+=take*units;
             truckSize-=take;
+            if(truckSize==0) break;
         }
         return total;
     }
