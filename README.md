@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajj4545/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dheerajj4545/DSA-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dheerajj4545/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2643-row-with-maximum-ones](https://github.com/dheerajj4545/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dheerajj4545/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dheerajj4545/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheerajj4545/DSA-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dheerajj4545/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3620-network-recovery-pathways](https://github.com/dheerajj4545/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/dheerajj4545/DSA-Questions/tree/master/1314-matrix-block-sum) |
 | [1872-stone-game-viii](https://github.com/dheerajj4545/DSA-Questions/tree/master/1872-stone-game-viii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dheerajj4545/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/dheerajj4545/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dheerajj4545/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/dheerajj4545/DSA-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dheerajj4545/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -493,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dheerajj4545/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/dheerajj4545/DSA-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dheerajj4545/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dheerajj4545/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dheerajj4545/DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
