@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/dheerajj4545/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dheerajj4545/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/dheerajj4545/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dheerajj4545/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajj4545/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/dheerajj4545/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dheerajj4545/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dheerajj4545/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/dheerajj4545/DSA-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dheerajj4545/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/dheerajj4545/DSA-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dheerajj4545/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dheerajj4545/DSA-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
