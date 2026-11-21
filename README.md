@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajj4545/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/dheerajj4545/DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dheerajj4545/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dheerajj4545/DSA-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dheerajj4545/DSA-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dheerajj4545/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dheerajj4545/DSA-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dheerajj4545/DSA-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dheerajj4545/DSA-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dheerajj4545/DSA-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dheerajj4545/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/dheerajj4545/DSA-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/dheerajj4545/DSA-Questions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dheerajj4545/DSA-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/dheerajj4545/DSA-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/dheerajj4545/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dheerajj4545/DSA-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dheerajj4545/DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/dheerajj4545/DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/dheerajj4545/DSA-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dheerajj4545/DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/dheerajj4545/DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Simulation
