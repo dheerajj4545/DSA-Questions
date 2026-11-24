@@ -804,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dheerajj4545/DSA-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/dheerajj4545/DSA-Questions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
