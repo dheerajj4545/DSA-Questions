@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dheerajj4545/DSA-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/dheerajj4545/DSA-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/dheerajj4545/DSA-Questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3620-network-recovery-pathways](https://github.com/dheerajj4545/DSA-Questions/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dheerajj4545/DSA-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/dheerajj4545/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/dheerajj4545/DSA-Questions/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dheerajj4545/DSA-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
